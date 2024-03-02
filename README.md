@@ -2,7 +2,9 @@
 Hide &amp; Skink packaged for windows
 
 Move = Arrows or WASD
+
 Action = Space or Z or Zero or Enter
+
 Mute Music = M
 
 # Agent Skink, your mission:
