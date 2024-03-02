@@ -5,18 +5,18 @@ Move = Arrows or WASD
 Action = Space or Z or Zero or Enter
 Mute Music = M
 
-#Agent Skink, your mission:
+# Agent Skink, your mission:
 1. sneak into the house unseen
 2. obtain the secret documents
 3. escape
 
-#How?
+# How?
 We have hired you for your particular set of skills.
 i'm sure you can work out how to do it on your own...
 
 Good luck! we're all counting on you... but if you are caught, we will disavow any knowledge of your actions.
 
-
+# Spoilers
 
 
 ok, ok, some tips (Spoilers. DONT READ)
